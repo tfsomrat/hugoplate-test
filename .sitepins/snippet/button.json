@@ -1,7 +1,7 @@
 {
   "name": "test",
   "label": "Test",
-  "schema": ["blog-list"],
+  "schema": ["blog"],
   "start": "{{",
   "end": "}}",
   "fields": [
