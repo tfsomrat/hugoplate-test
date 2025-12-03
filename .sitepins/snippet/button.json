@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "label": "Test",
+  "schema": ["blog-list"],
+  "start": "{{",
+  "end": "}}",
+  "fields": [
+    {
+      "name": "label",
+      "label": "Label",
+      "type": "string"
+    }
+  ]
+}
