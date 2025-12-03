@@ -19,7 +19,7 @@ draft: false
 
 ## hugo block shortcode
 {{< notice "note" >}}
-# This is a simple note.
+### This is a simple note.
 {{< /notice >}}
 
 ## jsx 1 line code
