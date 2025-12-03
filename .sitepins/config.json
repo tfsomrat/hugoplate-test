@@ -10,19 +10,6 @@
     "exampleSite/config/_default",
     "exampleSite/data"
   ],
-  "arrangement": [
-    {
-      "type": "file",
-      "targetPath": "exampleSite/content/english/blog/_index.md",
-      "groupName": "Blog Page"
-    },
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
-      "groupName": "Blog List",
-      "include": "",
-      "exclude": "_index.md"
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": true
 }
