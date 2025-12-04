@@ -6,10 +6,13 @@
   "content": {
     "root": "exampleSite/content/english"
   },
+  "code": {
+    "root": ""
+  },
   "themeConfig": [
     "exampleSite/config/_default",
     "exampleSite/data"
   ],
   "arrangement": [],
-  "showCommitModal": true
+  "showCommitModal": false
 }
