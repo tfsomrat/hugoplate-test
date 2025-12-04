@@ -4,27 +4,18 @@ meta_title: ''
 description: This is meta description
 draft: false
 ---
-## html 1 line code
 
-<hr>
-
-## html block code
+## html code
 
 <a href="https://google.com">google link</a>
 
-## hugo 1 line shortcode
-
-{{< button label="Button" link="/" style="solid" >}}
-
-## hugo block shortcode
-
-{{< notice "note" >}}
-### This is a simple note.
-{{< /notice >}}
-
-## jsx 1 line code
+## jsx code
 
 <Button label="hello" />
+
+## hugo shortcode
+
+{{< button label="Button" link="/" style="solid" >}}
 
 ## jsx block code
 
