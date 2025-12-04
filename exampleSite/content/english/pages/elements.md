@@ -6,11 +6,11 @@ draft: false
 ---
 ## html 1 line code
 
-\<hr>
+<hr>
 
 ## html block code
 
-\<a href="https\://google.com">google link\</a>
+<a href="https://google.com">google link</a>
 
 ## hugo 1 line shortcode
 
