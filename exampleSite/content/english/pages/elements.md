@@ -8,7 +8,7 @@ draft: false
 
 <a href="https://google.com">google link</a>
 
-<br>
+<hr>
 
 <div class="row">
   <div class="col-sm-4">.col-sm-4</div>
