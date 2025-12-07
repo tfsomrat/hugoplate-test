@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "label": "Hello world",
+  "schema": [
+    "blog"
+  ],
+  "start": "{{",
+  "end": "}}",
+  "fields": [
+    {
+      "name": "test",
+      "label": "Test",
+      "type": "string"
+    }
+  ]
+}
