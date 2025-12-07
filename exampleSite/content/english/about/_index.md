@@ -9,6 +9,4 @@ my name is khan, and i am not a terrorist
 
 ​
 
-![](/images/avatar.png)
-
 ​
