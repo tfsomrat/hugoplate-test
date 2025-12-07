@@ -16,9 +16,7 @@ draft: false
   <div class="col-sm-4">.col-sm-4</div>
 </div>
 
-## jsx code
-
-## hugo shortcode
+## hugo code
 
 {{< button label="Button" link="/" style="solid" >}}
 
@@ -26,7 +24,7 @@ draft: false
 This is a simple note.
 {{< /notice >}}
 
-## jsx block code
+## jsx code
 
 <Button label="hello" />
 
