@@ -8,15 +8,27 @@ draft: false
 
 <a href="https://google.com">google link</a>
 
-## jsx code
+<br>
 
-<Button label="hello" />
+<div class="row">
+  <div class="col-sm-4">.col-sm-4</div>
+  <div class="col-sm-4">.col-sm-4</div>
+  <div class="col-sm-4">.col-sm-4</div>
+</div>
+
+## jsx code
 
 ## hugo shortcode
 
 {{< button label="Button" link="/" style="solid" >}}
 
+{{< notice "note" >}}
+This is a simple note.
+{{< /notice >}}
+
 ## jsx block code
+
+<Button label="hello" />
 
 <Test label="https://google.com">
 * list 1
