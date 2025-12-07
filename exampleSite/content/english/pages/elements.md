@@ -6,7 +6,7 @@ draft: false
 ---
 ## html code
 
-\<a href="[https://google.com">google](https://google.com">google) link\</a>
+<a href="https://google.com">google link</a>
 
 ## jsx code
 
@@ -19,13 +19,13 @@ draft: false
 ## jsx block code
 
 <Test label="https://google.com">
-* list 1 lag
-* list 3
+* list 1
 * list 2
+* list 3
 </Test>
 
 ​
-
+## Table
 | Tables        | Are           | Cool   |
 | ------------- | ------------- | ------ |
 | col 3 is      | right-aligned | \$1600 |
