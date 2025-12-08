@@ -1,0 +1,17 @@
+{
+  "name": "button",
+  "label": "Button",
+  "schema": [
+    "blog"
+  ],
+  "start": "{{<",
+  "end": ">}}",
+  "fields": [
+    {
+      "name": "label",
+      "label": "Label",
+      "type": "string",
+      "defaultValue": ""
+    }
+  ]
+}
