@@ -1,0 +1,23 @@
+{
+  "name": "notice",
+  "label": "Notice",
+  "schema": [
+    "blog"
+  ],
+  "start": "{{<",
+  "end": ">}}",
+  "fields": [
+    {
+      "name": "_value",
+      "label": "Variant",
+      "type": "string",
+      "defaultValue": "note"
+    },
+    {
+      "name": "children",
+      "label": "Body",
+      "type": "string",
+      "defaultValue": "This is a note"
+    }
+  ]
+}
