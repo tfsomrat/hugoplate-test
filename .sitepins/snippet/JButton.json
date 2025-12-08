@@ -1,0 +1,23 @@
+{
+  "name": "JButton",
+  "label": "JSX Button",
+  "schema": [
+    "blog"
+  ],
+  "start": "<",
+  "end": ">",
+  "fields": [
+    {
+      "name": "label",
+      "label": "Label",
+      "type": "string",
+      "defaultValue": ""
+    },
+    {
+      "name": "link",
+      "label": "Link",
+      "type": "string",
+      "defaultValue": ""
+    }
+  ]
+}
