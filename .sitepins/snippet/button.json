@@ -12,12 +12,6 @@
       "label": "Label",
       "type": "string",
       "defaultValue": ""
-    },
-    {
-      "name": "link",
-      "label": "Link",
-      "type": "string",
-      "defaultValue": ""
     }
   ]
 }
