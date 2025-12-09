@@ -1,9 +1,0 @@
-{
-  "name": "test",
-  "label": "test",
-  "schema": [],
-  "start": "<",
-  "end": ">",
-  "selfClosingSlash": false,
-  "fields": []
-}
