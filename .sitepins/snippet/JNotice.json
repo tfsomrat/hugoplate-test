@@ -1,0 +1,24 @@
+{
+  "name": "JNotice",
+  "label": "JSX Notice",
+  "schema": [
+    "blog"
+  ],
+  "start": "<",
+  "end": ">",
+  "selfClosingSlash": false,
+  "fields": [
+    {
+      "name": "_value",
+      "label": "Type",
+      "type": "string",
+      "defaultValue": "note"
+    },
+    {
+      "name": "children",
+      "label": "Body",
+      "type": "rich-text",
+      "defaultValue": "this is a note"
+    }
+  ]
+}
