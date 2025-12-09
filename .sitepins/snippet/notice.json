@@ -4,8 +4,8 @@
   "schema": [
     "blog"
   ],
-  "start": "{{<",
-  "end": ">}}",
+  "start": "{{< ",
+  "end": " >}}",
   "selfClosingSlash": false,
   "fields": [
     {
