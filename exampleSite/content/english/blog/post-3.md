@@ -14,12 +14,18 @@ draft: false
 ---
 Hello World!
 
-​
-
-<JButton label="" link=""/>
-
-​
-
 {{<button label="">}}
+
+<button>
+text
+</button>
+
+{{<notice "note">}}
+This is a note
+{{</notice>}}
+
+<JNotice>
+this is a note
+</JNotice>
 
 ​
