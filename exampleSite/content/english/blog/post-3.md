@@ -15,3 +15,11 @@ draft: false
 Hello World!
 
 ​
+
+<JButton label="" link=""/>
+
+​
+
+{{<button label="">}}
+
+​
