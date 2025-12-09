@@ -1,17 +1,18 @@
 {
   "name": "button",
-  "label": "Button",
+  "label": "Html Button",
   "schema": [
     "blog"
   ],
-  "start": "{{<",
-  "end": ">}}",
+  "start": "<",
+  "end": ">",
+  "selfClosingSlash": false,
   "fields": [
     {
-      "name": "label",
-      "label": "Label",
+      "name": "children",
+      "label": "body",
       "type": "string",
-      "defaultValue": ""
+      "defaultValue": "text"
     }
   ]
 }
