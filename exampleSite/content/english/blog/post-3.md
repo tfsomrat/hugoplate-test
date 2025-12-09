@@ -12,12 +12,14 @@ tags:
   - tailwind
 draft: false
 ---
-Hello World!
-
 ​
 
 {{< notice "note" >}}
-This is a note
+# This is a note
+
+hello there
+
+{{< button label="test" link="#" >}}
 {{< /notice >}}
 
 ​
