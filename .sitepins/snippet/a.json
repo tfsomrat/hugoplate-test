@@ -1,0 +1,18 @@
+{
+  "name": "a",
+  "label": "HTML A",
+  "schema": [
+    "blog"
+  ],
+  "start": "<",
+  "end": ">",
+  "selfClosingSlash": true,
+  "fields": [
+    {
+      "name": "href",
+      "label": "Link",
+      "type": "string",
+      "defaultValue": ""
+    }
+  ]
+}
