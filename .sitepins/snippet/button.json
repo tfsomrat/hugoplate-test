@@ -1,18 +1,24 @@
 {
   "name": "button",
-  "label": "Html Button",
+  "label": "Hugo Button",
   "schema": [
     "blog"
   ],
-  "start": "<",
-  "end": ">",
+  "start": "{{< ",
+  "end": " >}}",
   "selfClosingSlash": false,
   "fields": [
     {
-      "name": "children",
-      "label": "body",
+      "name": "label",
+      "label": "Label",
       "type": "string",
-      "defaultValue": "text"
+      "defaultValue": ""
+    },
+    {
+      "name": "link",
+      "label": "Link",
+      "type": "string",
+      "defaultValue": ""
     }
   ]
 }
