@@ -1,11 +1,12 @@
 {
   "name": "notice",
-  "label": "Notice",
+  "label": "Hugo Notice",
   "schema": [
     "blog"
   ],
   "start": "{{<",
   "end": ">}}",
+  "selfClosingSlash": false,
   "fields": [
     {
       "name": "_value",
