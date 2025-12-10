@@ -12,24 +12,12 @@ tags:
   - tailwind
 draft: false
 ---
-​
-
-​
-
-<JNotice>
-this is a note
-</JNotice>
-
-​<a href="">label</a>​
+​<JButton label="" link="" />​
 
 ​
 
 {{< button label="" link="" >}}
 
 ​
-
-{{< notice "note" >}}
-This is a note
-{{< /notice >}}
 
 ​
