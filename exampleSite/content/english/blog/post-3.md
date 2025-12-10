@@ -12,14 +12,10 @@ tags:
   - tailwind
 draft: false
 ---
-​
-
 {{< notice "note" >}}
-# This is a note
-
-hello there
-
-{{< button label="test" link="#" >}}
+This is a note
 {{< /notice >}}
 
-​
+<JNotice>
+this is a note
+</JNotice>
