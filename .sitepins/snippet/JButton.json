@@ -1,24 +1,7 @@
 {
-  "name": "JButton",
   "label": "JSX Button",
   "schema": [
     "blog"
   ],
-  "start": "<",
-  "end": ">",
-  "selfClosingSlash": true,
-  "fields": [
-    {
-      "name": "label",
-      "label": "Label",
-      "type": "string",
-      "defaultValue": ""
-    },
-    {
-      "name": "link",
-      "label": "Link",
-      "type": "string",
-      "defaultValue": ""
-    }
-  ]
+  "code":'<JButton label="" link="" />'
 }
