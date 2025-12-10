@@ -1,0 +1,7 @@
+{
+  "label": "Tabs",
+  "schema": [
+    "blog"
+  ],
+  "code": "{{< tabs >}}\n{{< tab \"Tab 1\" >}}\nTab text\n{{< /tab >}}\n\n{{< /tabs >}}"
+}
