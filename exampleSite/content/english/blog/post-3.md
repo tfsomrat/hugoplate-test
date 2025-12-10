@@ -12,10 +12,4 @@ tags:
   - tailwind
 draft: false
 ---
-{{< notice "note" >}}
-This is a note
-{{< /notice >}}
-
-<JNotice>
-this is a note
-</JNotice>
+​
