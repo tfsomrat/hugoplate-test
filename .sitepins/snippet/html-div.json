@@ -1,0 +1,22 @@
+{
+  "name": "div",
+  "label": "Html Div",
+  "schema": [],
+  "start": "<",
+  "end": ">",
+  "selfClosingSlash": false,
+  "fields": [
+    {
+      "name": "children",
+      "label": "children",
+      "type": "rich-text",
+      "defaultValue": ""
+    },
+    {
+      "name": "class",
+      "label": "Class Name",
+      "type": "string",
+      "defaultValue": ""
+    }
+  ]
+}
