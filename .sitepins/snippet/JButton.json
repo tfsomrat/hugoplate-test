@@ -1,7 +1,0 @@
-{
-  "label": "JSX Button",
-  "schema": [
-    "blog"
-  ],
-  "code":'<JButton label="" link="" />'
-}
