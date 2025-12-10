@@ -1,0 +1,7 @@
+{
+  "label": "Hugo Notice",
+  "schema": [
+    "blog"
+  ],
+  "code": "{{< notice \"note\" >}}\nThis is a notice\n{{</ notice >}}"
+}
