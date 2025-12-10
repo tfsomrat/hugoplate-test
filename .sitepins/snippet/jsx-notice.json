@@ -1,0 +1,7 @@
+{
+  "label": "JSX Notice",
+  "schema": [
+    "blog"
+  ],
+  "code": "<Notice type=\"\">\nThis is a notice\n</Notice>"
+}
