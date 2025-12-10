@@ -13,3 +13,23 @@ tags:
 draft: false
 ---
 ​
+
+​
+
+<JNotice>
+this is a note
+</JNotice>
+
+​<a href="">label</a>​
+
+​
+
+{{< button label="" link="" >}}
+
+​
+
+{{< notice "note" >}}
+This is a note
+{{< /notice >}}
+
+​
