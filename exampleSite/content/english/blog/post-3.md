@@ -12,12 +12,3 @@ tags:
   - tailwind
 draft: false
 ---
-​<JButton label="" link="" />​
-
-​
-
-{{< button label="" link="" >}}
-
-​
-
-​
