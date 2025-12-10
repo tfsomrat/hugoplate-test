@@ -1,0 +1,7 @@
+{
+  "label": "HTML Button",
+  "schema": [
+    "blog"
+  ],
+  "code": "<button>click</button>"
+}
