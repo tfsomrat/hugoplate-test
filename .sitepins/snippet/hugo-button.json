@@ -1,0 +1,7 @@
+{
+  "label": "Hugo Button",
+  "schema": [
+    "blog"
+  ],
+  "code": "{{< button label=\"\" link=\"\" >}}"
+}
