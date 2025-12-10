@@ -1,0 +1,7 @@
+{
+  "label": "JSX Button",
+  "schema": [
+    "blog"
+  ],
+  "code": "<Button label=\"\" name=\"\" />"
+}
