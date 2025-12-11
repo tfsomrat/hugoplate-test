@@ -1,0 +1,7 @@
+{
+  "label": "Hugo Tab Item",
+  "schema": [
+    "blog"
+  ],
+  "code": "{{< tab \"Tab name\" >}}\nTab text\n{{< /tab >}}"
+}
