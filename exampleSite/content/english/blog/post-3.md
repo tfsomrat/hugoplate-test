@@ -15,3 +15,11 @@ draft: false
 ​Hello World!
 
 {{< test label="" link="" >}}
+
+​
+
+<Notice2 type="">
+This is a notice
+</Notice2>
+
+​
