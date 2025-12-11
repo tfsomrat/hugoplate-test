@@ -18,7 +18,15 @@ draft: false
 
 ​
 
+<Notice type="">
+This is a notice
+</Notice>
+
 ​<Button label="" name="" />​
+
+{{< notice "note" >}}
+This is a notice
+{{</ notice >}}
 
 ​
 
