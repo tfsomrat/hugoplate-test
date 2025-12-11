@@ -23,3 +23,13 @@ This is a notice
 </Notice2>
 
 ​
+
+{{< tabs >}}
+​
+
+{{< tab "Tab name" >}}
+Tab text
+{{< /tab >}}
+{{< /tabs >}}
+
+​
