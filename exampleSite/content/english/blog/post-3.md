@@ -12,27 +12,7 @@ tags:
   - tailwind
 draft: false
 ---
-​Hello World!
-
-{{< test label="hello" link="" >}}
-
-​
-
-<Notice type="">
-This is a notice
-</Notice>
-
-​<Button label="" name="" />​
-
-{{< notice "note" >}}
-This is a notice
-{{</ notice >}}
-
-​
-
 ​<a href="https://google.com/" rel="nofollow">google</a> This is a link to click.
-
-​
 
 <div class="fixed">
   <span class="block sm:hidden">all</span>
