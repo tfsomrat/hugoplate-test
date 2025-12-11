@@ -1,7 +1,7 @@
 {
-  "label": "Tabs",
+  "label": "Hugo Tabs",
   "schema": [
     "blog"
   ],
-  "code": "{{< tabs >}}\n{{< tab \"Tab 1\" >}}\nTab text\n{{< /tab >}}\n\n{{< /tabs >}}"
+  "code": "{{< tabs >}}\n{{< tab \"Tab name\" >}}\nTab text\n{{< /tab >}}\n\n{{< /tabs >}}"
 }
