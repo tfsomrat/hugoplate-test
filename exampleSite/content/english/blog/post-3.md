@@ -14,7 +14,7 @@ draft: false
 ---
 ​Hello World!
 
-{{< test label="" link="" >}}
+{{< test label="hello" link="" >}}
 
 ​
 
@@ -24,8 +24,7 @@ draft: false
 
 ​<a href="https://google.com/" rel="nofollow">google</a> This is a link to click.
 
-
-<br />
+​
 
 <div class="fixed">
   <span class="block sm:hidden">all</span>
