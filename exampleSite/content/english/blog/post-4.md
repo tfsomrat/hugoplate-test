@@ -13,7 +13,25 @@ tags:
 draft: false
 ---
 <Divider />
+
 <Purple>
 *Extended text*
 </Purple>
+
 <CustomImage alt="Logo" src="1ogo.png" width={150} />
+
+​
+
+​
+
+{{< notice "note" >}}
+This is a notice
+{{</ notice >}}
+
+​
+
+<Notice type="">
+This is a notice
+</Notice>
+
+​
