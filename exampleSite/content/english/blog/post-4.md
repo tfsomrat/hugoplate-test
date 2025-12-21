@@ -14,12 +14,10 @@ draft: false
 ---
 <Divider />
 
-​<Purple>
+<Purple>
 *Extended text*
-</Purple>​
+</Purple>
 
-<Notice type="">
-This is a notice
-</Notice>
+<CustomImage alt="Logo" src="1ogo.png" width={150} />
 
 ​
