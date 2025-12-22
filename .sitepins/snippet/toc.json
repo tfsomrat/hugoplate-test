@@ -1,0 +1,5 @@
+{
+  "label": "toc",
+  "schema": [],
+  "code": "{{< toc >}}\n"
+}
