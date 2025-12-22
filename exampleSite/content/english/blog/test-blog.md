@@ -9,8 +9,6 @@ author: ''
 tags: []
 draft: false
 ---
-Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. The Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger. &#x20;
-
-The lush greenery and extensive waterways of Bangladesh create a vibrant and fertile landscape, making it a unique and picturesque destination in South Asia.
+Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. The Padma (Ganges), Meghna, and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger. &#x20;
 
 ​
