@@ -20,7 +20,7 @@ draft: false
 
 <CustomImage alt="Logo" src="1ogo.png" width={150} />
 
-hello
+​
 
 {{< notice "note" >}}
 This is a notice
