@@ -5,20 +5,3 @@ description: this is meta description
 image: /images/avatar.png
 draft: false
 ---
-my name is khan, and i am not a terrorist
-
-​
-
-​
-
-![image.png](/images/image.png)
-
-​
-
-| ​ | ​ | ​ | ​      | ​ | ​ | ​ |
-| - | - | - | ------ | - | - | - |
-| ​ | ​ | ​ | fafgea | ​ | ​ | ​ |
-| ​ | ​ | ​ | hello  | ​ | ​ | ​ |
-| ​ | ​ | ​ | ​      | ​ | ​ | ​ |
-
-​
