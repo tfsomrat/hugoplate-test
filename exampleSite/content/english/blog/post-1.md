@@ -17,4 +17,7 @@ draft: false
 ## hello world
 <hello/>
 <Hello/>
+```js
+console.log(hello)
+```
 </Notice>
