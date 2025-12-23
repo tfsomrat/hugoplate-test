@@ -15,8 +15,5 @@ draft: false
 ---
 <Notice type="">
 ## hello world
-<hello/>
+<Hello/>
 </Notice>
-<Divider />
-<Purple>*Extended text*</Purple>
-<CustomImage alt="Logo" src="1ogo.png" width={150} />
