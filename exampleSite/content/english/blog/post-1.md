@@ -19,13 +19,14 @@ draft: false
 <Hello/>
 
 ​<a href="#">hello​</a>​
+</Notice>
+
+​
+
+{{< button label="" link="ddd" >}}
 
 ​
 
 <Button label="" name=""/>
-
-
-<br />
-</Notice>
 
 ​
