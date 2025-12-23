@@ -13,4 +13,8 @@ tags:
   - tailwind
 draft: false
 ---
-hello world
+<Notice type="">
+## hello world
+<hello/>
+<Hello/>
+</Notice>
