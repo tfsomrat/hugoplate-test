@@ -26,6 +26,11 @@
       "groupName": "Blog List",
       "include": "",
       "exclude": "_index.md"
+    },
+    {
+      "type": "file",
+      "targetPath": "exampleSite/content/english/_index.md",
+      "groupName": "homepage"
     }
   ],
   "showCommitModal": true
