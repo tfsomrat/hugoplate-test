@@ -22,7 +22,7 @@
     },
     {
       "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
+      "targetPath": "exampleSite/content/english/authors",
       "groupName": "Blog List",
       "include": "",
       "exclude": "_index.md"
