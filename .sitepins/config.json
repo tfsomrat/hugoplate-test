@@ -31,11 +31,6 @@
       "type": "file",
       "targetPath": "exampleSite/content/english/_index.md",
       "groupName": "homepage"
-    },
-    {
-      "type": "file",
-      "targetPath": "exampleSite/content/english/about/_index.md",
-      "groupName": "homepage"
     }
   ],
   "showCommitModal": true
