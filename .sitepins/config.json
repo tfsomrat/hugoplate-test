@@ -14,6 +14,19 @@
     "exampleSite/hugo.toml",
     "exampleSite/data"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "heading",
+      "groupName": "Blog",
+      "targetPath": ""
+    },
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content/english/blog",
+      "groupName": "Blog List",
+      "include": "",
+      "exclude": "_index.md"
+    }
+  ],
   "showCommitModal": true
 }
