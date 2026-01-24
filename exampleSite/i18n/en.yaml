@@ -1,4 +1,5 @@
-home: Home # home page
+---
+home: Home 2
 read_more: Read More
 send: Send
 related_posts: Related Posts
@@ -12,3 +13,4 @@ search_initial_message: Type something to search..
 search_navigate: to navigate
 search_select: to select
 search_close: to close
+---
