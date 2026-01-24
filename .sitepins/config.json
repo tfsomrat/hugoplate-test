@@ -9,6 +9,6 @@
     "exampleSite/data",
     "exampleSite/i18n"
   ],
-  "custom-commit": true,
+  "custom-commit": false,
   "arrangement": []
 }
