@@ -25,10 +25,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ​
 
-![gallery-img](/images/gallery/01.jpg)
-
-​
-
-![root image](/images/avatar.png)
+![](/images/gallery/01.jpg)
 
 ​
