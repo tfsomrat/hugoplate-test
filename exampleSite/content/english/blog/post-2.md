@@ -27,4 +27,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ![](/images/gallery/01.jpg)
 
+![](/images/image-stock-photos-images-and-backgrounds-for-free-download.png)
+
 ​
