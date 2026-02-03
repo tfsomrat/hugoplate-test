@@ -7,7 +7,7 @@ description: "Don't just take our word for it - hear from some of our satisfied
 
 # Testimonials
 testimonials:
-  - name: Marvin
+  - name: Somrat
     designation: Web Designer
     avatar: /images/avatar.png
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
