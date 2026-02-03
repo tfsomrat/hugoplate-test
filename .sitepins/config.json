@@ -6,5 +6,18 @@
     "exampleSite/config/_default"
   ],
   "custom-commit": false,
-  "arrangement": []
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content/english/blog",
+      "groupName": "Blog List",
+      "include": "",
+      "exclude": "_index.md"
+    },
+    {
+      "type": "file",
+      "targetPath": "exampleSite/content/english/blog/_index.md",
+      "groupName": "Blog Index"
+    }
+  ]
 }
