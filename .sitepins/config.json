@@ -8,13 +8,5 @@
     "exampleSite/i18n"
   ],
   "custom-commit": false,
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
-      "groupName": "Blog",
-      "include": "",
-      "exclude": ""
-    }
-  ]
+  "arrangement": []
 }
